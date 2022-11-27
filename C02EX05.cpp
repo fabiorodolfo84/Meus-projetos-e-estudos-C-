@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
               char Nome[40];
-              cout << "Informe seu \nnome: ";
+              cout << "Informe seu \nNome: ";
               cin >> Nome;
               cout << "Ola, \n";
               cout << Nome << "\n";
